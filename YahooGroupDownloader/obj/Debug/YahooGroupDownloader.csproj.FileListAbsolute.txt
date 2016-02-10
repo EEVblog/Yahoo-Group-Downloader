@@ -1,0 +1,13 @@
+c:\users\david\documents\visual studio 2015\Projects\YahooGroupDownloader\YahooGroupDownloader\bin\Debug\YahooGroupDownloader.exe.config
+c:\users\david\documents\visual studio 2015\Projects\YahooGroupDownloader\YahooGroupDownloader\bin\Debug\YahooGroupDownloader.exe
+c:\users\david\documents\visual studio 2015\Projects\YahooGroupDownloader\YahooGroupDownloader\bin\Debug\YahooGroupDownloader.pdb
+c:\users\david\documents\visual studio 2015\Projects\YahooGroupDownloader\YahooGroupDownloader\obj\Debug\YahooGroupDownloader.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\YahooGroupDownloader\YahooGroupDownloader\obj\Debug\YahooGroupDownloader.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\YahooGroupDownloader\YahooGroupDownloader\obj\Debug\YahooGroupDownloader.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\YahooGroupDownloader\YahooGroupDownloader\obj\Debug\YahooGroupDownloader.exe
+c:\users\david\documents\visual studio 2015\Projects\YahooGroupDownloader\YahooGroupDownloader\obj\Debug\YahooGroupDownloader.pdb
+C:\Users\David\documents\visual studio 2015\Projects\YahooGroupDownloader\YahooGroupDownloader\obj\Debug\YahooGroupDownloader.Form1.resources
+C:\Users\David\documents\visual studio 2015\Projects\YahooGroupDownloader\YahooGroupDownloader\bin\Debug\YahooGroupDownloader.exe.manifest
+C:\Users\David\documents\visual studio 2015\Projects\YahooGroupDownloader\YahooGroupDownloader\bin\Debug\YahooGroupDownloader.application
+C:\Users\David\documents\visual studio 2015\Projects\YahooGroupDownloader\YahooGroupDownloader\obj\Debug\YahooGroupDownloader.exe.manifest
+C:\Users\David\documents\visual studio 2015\Projects\YahooGroupDownloader\YahooGroupDownloader\obj\Debug\YahooGroupDownloader.application
